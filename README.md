@@ -1,1 +1,2 @@
-# Machine-Learning
+# Machine-Learning - Naive Bayes Classifier for 20 Newsgroups Dataset
+This project, part of the MACHINE LEARNING - CSE 6363-005 course, involves implementing a Naive Bayes classifier to categorize documents from the 20 Newsgroups dataset. The Naive Bayes classifier is a probabilistic algorithm that uses Bayes' theorem to predict the class of an instance based on its features. Despite the simplifying assumption that features are independent, Naive Bayes classifiers are effective and widely used in text classification tasks.
